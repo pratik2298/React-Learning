@@ -1,0 +1,12 @@
+.primary {
+    color:cadetblue
+}
+.secondary{
+    color : palevioletred
+}
+.background1{
+    background-color : black;
+    border: 2px solid saddlebrown;
+    height: 440px;
+    width: 50%;
+}
